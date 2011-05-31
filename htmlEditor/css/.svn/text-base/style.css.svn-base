@@ -1,0 +1,23 @@
+body{
+  background-color:#FFF;
+  font: 11px "Trebuchet MS", Verdana, Arial, Helvetica,
+	sans-serif;
+}
+#mapcanvas{
+	position:absolute;
+	margin-left:100px;
+	width: 650px;
+	height: 530px;
+}
+#rightarea{
+	position:absolute;
+	right:10px;
+	width:650px;
+}
+#loader{
+	position:absolute;
+	left:50%;
+	left-margin:-27px;
+	top:50%;
+	top-margin: -27px;
+}
